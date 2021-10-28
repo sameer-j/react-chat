@@ -1,4 +1,4 @@
-# Chat
+# React Chat App
 React based chat app
 
 
